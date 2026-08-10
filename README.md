@@ -14,7 +14,7 @@ A neon step-sequencer, drum machine, and synth in one fast desktop app. Paint be
 dial in sounds, and jam - no browser tab, no cloud, all local.
 
 ### Download
-Get it free at **[kvrnl.io/products/synthasize-me](https://kvrnl.io/products/synthasize-me/)** - create a free account, claim your license key, and install. Windows.
+Get it free at **[kvrnl.io/products/synthesize-me](https://kvrnl.io/products/synthesize-me/)** - create a free account, claim your license key, and install. Windows.
 
 ### License
 Proprietary freeware - **free to use, not open source.** See [LICENSE](./LICENSE).
