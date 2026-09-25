@@ -71,6 +71,14 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 ## What's new
 
+**v1.0.8** — 2026-09-25
+  - Twelve complete songs are built in. Press the new Tunes button and pick one: it starts playing right away, 2 to 3 minutes long, with intros, breaks and endings. Four are lo-fi (Midnight Study, Coffee Shop Rain, Rooftop Sunset, Tape Memory), plus a chill one, boom bap, trap, a 12-bar blues shuffle, house, techno, afrobeats and funk. Every tune loads as real patterns and a song chain, so you can change any drum, note or sound and export it as a WAV.
+  - Proper mastering. Everything you hear and everything you export now passes through a master section with a limiter and a soft safety stage, so a busy mix can never crackle, distort or clip, no matter how many sounds stack up. Exported WAV files are also brought up to a consistent level and finished cleanly at both ends.
+  - Smoother playback. The app queues audio further ahead and keeps its timing steady even while another window is in front, and the visualizer is lighter, so the sound stays clean when the screen is busy.
+  - The Lo-fi kit's crunch is warmer and less harsh, its vinyl crackle is quieter, and recorded or dropped-in sounds start and end without a click.
+  - Melody notes can now be a half bar or a whole bar long, which is what pads and choirs need. The song chain can hold up to 64 patterns, and the bottom bar shows where you are in the song as a clock.
+  - The New window now has two tabs, Full tunes and Styles, and the welcome screen and guide point to the tunes first.
+
 **v1.0.7** — 2026-09-25
   - New to making music? Synthesize Me now shows you around. A welcome screen on first launch offers a ready-made song, a quick tour, or the freedom to explore. The tour points at each part of the app and explains it in plain English. Press ? anytime for the new Guide, with simple how-tos for beats, sounds, vocals, melodies, songs and saving.
   - Record your voice. Press Rec next to a drum row's sound, count in 3-2-1, and sing, rap or shout up to 6 seconds. Play it back, flip it backwards if you like, and it becomes that row's sound. Tip: start your beat first and wear headphones to sing along.
@@ -100,9 +108,6 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 **v1.0.4** — 2026-08-18
   - Downloads and automatic updates now come straight from KVRNL's own servers instead of a third-party host. Updates are quicker and more reliable, and nothing inside the app itself has changed.
   - If you installed this app before today, please download it once more from kvrnl.io. Older copies still look for updates at the old location and can't carry themselves across the move — this one time has to be done by hand.
-
-**v1.0.3** — 2026-08-10
-  - The name is now spelled “Synthesize Me” everywhere — the installer, the download link, the update feed and the app itself.
 
 Full history → **[kvrnl.io/changelog/synthesize-me](https://kvrnl.io/changelog/synthesize-me/)**
 
