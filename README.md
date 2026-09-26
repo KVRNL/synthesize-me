@@ -71,6 +71,11 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 ## What's new
 
+**v1.0.10** — 2026-09-26
+  - New in Settings: Send usage info to KVRNL. It shares which features you use (like tunes, style packs, exports and recordings), any errors, how long you make music, and basic details about your PC such as its Windows version, language and screen size. This helps us find and fix problems faster. It never sends your music, your sounds or any file names.
+  - Usage info is on by default and you can switch it off anytime. Switching it off also deletes anything not yet sent. When you're offline, it waits on your computer and goes out later.
+  - The About page now reads: works fully offline, and your music stays on your machine.
+
 **v1.0.9** — 2026-09-25
   - A brand-new activation screen. If you got Synthesize Me from GitHub or a friend, it now explains exactly how to get your free key, in three steps: create a free KVRNL account, claim Synthesize Me on its page, then paste the key. Each step has a button that opens the right page on kvrnl.io.
   - Activating is quicker. When you come back from the website with your key copied, it fills itself in. A Paste button handles keys copied with extra spaces, line breaks or surrounding text, and pressing Enter twice no longer sends the key twice.
@@ -103,15 +108,6 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
   - Use your own sounds. Drag a WAV or MP3 onto any drum row and it becomes that drum. It's saved with your project and remembered next time you open the app.
   - Groove tools. Right-click any step for its level, hi-hat style rolls of 2, 3 or 4 hits, and a chance setting so the beat varies each time round. On the melody side, a scale lock keeps every note in key and chord mode places a whole chord with one click.
   - Dropping a file anywhere in the window can no longer take you away from the app, and dropping a saved project opens it.
-
-**v1.0.5** — 2026-09-06
-  - Brand-new design, top to bottom. Synthesize Me now looks and works like a hardware groovebox: a big play pad, an LED tempo readout with tap tempo, clearly labelled sections, and a sidebar for Song, Effects and Output so nothing important is hidden in a menu. The layout scrolls and resizes cleanly - nothing gets cut off by the window edge any more, on any screen size.
-  - Faster to make beats: drag across the grid to paint several steps at once, right-click a step for an accent or a ghost hit, and click any track name or piano key to hear it. Switch between Drums, Melody, or see Both at once.
-  - Undo everything. Ctrl+Z steps back through every edit, and Clear, Paste, New and Open all offer a one-click Undo.
-  - Your work is remembered. Close the app and reopen it, and your patterns, song chain, tempo and effects are exactly where you left them. Turn this off in Settings if you prefer a clean slate.
-  - Song mode is always on screen with a proper chain builder. Export WAV now renders the whole song when song mode is on, and the file includes your reverb, delay and filter, so it sounds like the app.
-  - Settings, keyboard shortcuts and About now live in one tidy window. The filter cutoff slider is musically scaled, and Ctrl+C / Ctrl+V / Ctrl+S / Ctrl+O copy, paste, save and open.
-  - Fixed: swing slowed the tempo instead of shuffling; song mode played the wrong first hit and skipped the first slot; the melody playhead only moved every four steps; saved projects lost their octave, note length and synth volume; Export and Save could silently do nothing; the reverb decay slider stuttered while dragging; shortcuts stopped working after touching a slider; and a licensing-server outage could lock you out mid-session.
 
 Full history → **[kvrnl.io/changelog/synthesize-me](https://kvrnl.io/changelog/synthesize-me/)**
 
