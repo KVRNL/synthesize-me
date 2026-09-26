@@ -71,6 +71,14 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 ## What's new
 
+**v1.0.9** — 2026-09-25
+  - A brand-new activation screen. If you got Synthesize Me from GitHub or a friend, it now explains exactly how to get your free key, in three steps: create a free KVRNL account, claim Synthesize Me on its page, then paste the key. Each step has a button that opens the right page on kvrnl.io.
+  - Activating is quicker. When you come back from the website with your key copied, it fills itself in. A Paste button handles keys copied with extra spaces, line breaks or surrounding text, and pressing Enter twice no longer sends the key twice.
+  - Clearer help when something goes wrong. Every problem now says what happened in plain words and offers the next step, like Open my account when your key is in use on another computer, or Try again when you're offline.
+  - Your license is now stored in a protected form that only works on this computer, so it can't be copied or tampered with. The app still works offline for up to 14 days after it last checked in.
+  - If your license is switched off while the app is open, music now stops and the app is covered until you activate again. Your work is kept and comes back as it was.
+  - The activation window now fits smaller and zoomed screens and can be resized, so nothing gets cut off.
+
 **v1.0.8** — 2026-09-25
   - Twelve complete songs are built in. Press the new Tunes button and pick one: it starts playing right away, 2 to 3 minutes long, with intros, breaks and endings. Four are lo-fi (Midnight Study, Coffee Shop Rain, Rooftop Sunset, Tape Memory), plus a chill one, boom bap, trap, a 12-bar blues shuffle, house, techno, afrobeats and funk. Every tune loads as real patterns and a song chain, so you can change any drum, note or sound and export it as a WAV.
   - Proper mastering. Everything you hear and everything you export now passes through a master section with a limiter and a soft safety stage, so a busy mix can never crackle, distort or clip, no matter how many sounds stack up. Exported WAV files are also brought up to a consistent level and finished cleanly at both ends.
@@ -104,10 +112,6 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
   - Song mode is always on screen with a proper chain builder. Export WAV now renders the whole song when song mode is on, and the file includes your reverb, delay and filter, so it sounds like the app.
   - Settings, keyboard shortcuts and About now live in one tidy window. The filter cutoff slider is musically scaled, and Ctrl+C / Ctrl+V / Ctrl+S / Ctrl+O copy, paste, save and open.
   - Fixed: swing slowed the tempo instead of shuffling; song mode played the wrong first hit and skipped the first slot; the melody playhead only moved every four steps; saved projects lost their octave, note length and synth volume; Export and Save could silently do nothing; the reverb decay slider stuttered while dragging; shortcuts stopped working after touching a slider; and a licensing-server outage could lock you out mid-session.
-
-**v1.0.4** — 2026-08-18
-  - Downloads and automatic updates now come straight from KVRNL's own servers instead of a third-party host. Updates are quicker and more reliable, and nothing inside the app itself has changed.
-  - If you installed this app before today, please download it once more from kvrnl.io. Older copies still look for updates at the old location and can't carry themselves across the move — this one time has to be done by hand.
 
 Full history → **[kvrnl.io/changelog/synthesize-me](https://kvrnl.io/changelog/synthesize-me/)**
 
