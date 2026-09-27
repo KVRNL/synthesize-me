@@ -6,7 +6,7 @@
 
 ### Browser-free music sequencer & synth
 
-<a href="https://github.com/KVRNL/synthesize-me/releases/latest"><img alt="Latest version" src="https://img.shields.io/github/v/release/KVRNL/synthesize-me?display_name=tag&label=version&color=F5A623&labelColor=0d0d0f&style=for-the-badge"></a>
+<a href="https://kvrnl.io/changelog/synthesize-me/"><img alt="Latest version" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fkvrnl.io%2Fbadge%2Fsynthesize-me.json&style=for-the-badge&labelColor=0d0d0f"></a>
 <img alt="Platform" src="https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0d0d0f?style=for-the-badge&labelColor=0d0d0f">
 <img alt="Price" src="https://img.shields.io/badge/price-FREE-F5A623?style=for-the-badge&labelColor=0d0d0f">
 <a href="./LICENSE"><img alt="License" src="https://img.shields.io/badge/license-Proprietary%20Freeware-0d0d0f?style=for-the-badge&labelColor=0d0d0f"></a>
@@ -130,7 +130,7 @@ Setup guides and how-tos → **[kvrnl.io/docs/synthesize-me](https://kvrnl.io/do
 
 **Proprietary freeware — free to use, not open source.**
 
-This repository hosts the installer releases, documentation, and license for
+This repository hosts the documentation and license for
 Synthesize Me. **The application source code is not published.** See
 **[LICENSE](./LICENSE)** for the full terms.
 
